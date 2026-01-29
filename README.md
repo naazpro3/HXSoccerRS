@@ -22,22 +22,22 @@ How to Flash the ESP32
 # Connections
 Smartelex :
 
-  L_DIR - 12
-  L_PWM - 14
-  ----------
-  R_DIR - 27
-  R_PWM - 26
+    L_DIR - 12
+    L_PWM - 14
+    ----------
+    R_DIR - 27
+    R_PWM - 26
 
 BTS7960 :
 
-  Left_L_PWM - 12
-  Left_R_PWM - 14
-  ---------------
-  Right_L_PWM - 27
-  Right_R_PWM - 26
+    Left_L_PWM - 12
+    Left_R_PWM - 14
+    ---------------
+    Right_L_PWM - 27
+    Right_R_PWM - 26
 
 Reciever (common) :
-  Throttle - 36
-  Steering - 39
+    Throttle - 36
+    Steering - 39
 
 # All done

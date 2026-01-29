@@ -16,7 +16,7 @@ There are two variants of this code -
 
 How to Flash the ESP32
   1. open the .ino file of your selected variant
-  2. select yuor esp32 board type and COM port of the esp32 on the top
+  2. select your esp32 board type and COM port of the esp32 on the top
   3. upload the code
 
 # Connections
